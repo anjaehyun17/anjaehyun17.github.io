@@ -1,9 +1,7 @@
 ---
 layout: home
 ---
-### Machine Learning
-
-### Deep Learning
+## Machine Learning & Deep Learning
 
 # 연구 및 강의
 
