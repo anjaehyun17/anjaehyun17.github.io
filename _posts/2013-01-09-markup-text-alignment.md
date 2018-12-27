@@ -1,13 +1,9 @@
 ---
 layout: post
-title: "Markup: Text Alignment"
+title: "필자 소개"
 categories:
-  - Markup
-tags:
-  - alignment
-  - content
-  - css
-  - markup
+  - intro
+
 ---
 
 ### Default
