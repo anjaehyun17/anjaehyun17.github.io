@@ -5,8 +5,7 @@ layout: home
 
 ## 연구 및 강의
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+본 웹사이트는 AI Research에 관한 페이지로, Machine Learning과 Deep Learning에 대한 연구 및 강의를 다룹니다.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+주전공이 NLP(Nature Language Processing)이므로, Task는 많은 자연어 처리에 대한 것을 다룰 것입니다. 
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
