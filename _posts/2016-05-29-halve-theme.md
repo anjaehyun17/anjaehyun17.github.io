@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First jaeHalve Jekyll Theme"
+title:  "Halve Jekyll Theme"
 date:   2016-05-29
 excerpt: "Stylish, two-column Jekyll theme for your blog."tag:
 - jekyll 
