@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Machine Learning & Deep Learning 연구 및 강의
+# Machine Learning 연구 및 강의
 
 This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
 
