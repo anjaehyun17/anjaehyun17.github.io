@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "페이지 목적"
+title: ""
 tag:
 - 웹
 - 목적
