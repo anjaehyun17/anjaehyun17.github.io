@@ -1,4 +1,4 @@
 JaehyuncBookPro:_posts recall$ git remote add origin https://anjaehyun17.github.io
 git add --all
 git commit -m "description"
-
+git push
